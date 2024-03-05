@@ -1,0 +1,23 @@
+h2{
+    color:yellowgreen;
+}
+#btncontainer
+{
+    text-align:center;
+    font-size:4em;
+}
+.buttons
+{
+    padding:10px 20px;
+    color:white;
+    background-color: hsl(61, 65%, 30%);
+    transition:background-color 0.25s;
+}
+#inputclass
+{
+    padding:15px;
+    text-overflow: none;
+}
+.buttons:hover{
+    background-color:hsl(303, 58%, 31%);
+}
